@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aayushi20994/ResumeBuilder.git/static/css/main.520b52ab.css",
+    "main.js": "/Aayushi20994/ResumeBuilder.git/static/js/main.04258ea0.js",
+    "static/js/787.8b7042b1.chunk.js": "/Aayushi20994/ResumeBuilder.git/static/js/787.8b7042b1.chunk.js",
+    "index.html": "/Aayushi20994/ResumeBuilder.git/index.html",
+    "main.520b52ab.css.map": "/Aayushi20994/ResumeBuilder.git/static/css/main.520b52ab.css.map",
+    "main.04258ea0.js.map": "/Aayushi20994/ResumeBuilder.git/static/js/main.04258ea0.js.map",
+    "787.8b7042b1.chunk.js.map": "/Aayushi20994/ResumeBuilder.git/static/js/787.8b7042b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.520b52ab.css",
+    "static/js/main.04258ea0.js"
+  ]
+}
