@@ -75,7 +75,7 @@ export default function Page1() {
 
   return (
     <div className="container">
-      <form align="left" onSubmit={handledata}>
+      <form align="left" className="col-12" onSubmit={handledata}>
         <h2>Name</h2>
         <input
           className="form-control"
